@@ -8,3 +8,5 @@ git-flow 전략 공부
 3. logout 구현
 
 4. loging check 구현
+
+5. 추가 구현
